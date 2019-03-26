@@ -13,6 +13,8 @@ public class MyClass
     System.out.println("3rd Print statement");
     
     System.out.println("The King is here");
+    
+    System.out.println("Doing something new.");
 
   }
 
